@@ -1,0 +1,12 @@
+# Node.js (for frontend)
+frontend/node_modules/
+
+# Python artifacts (for backend)
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+
